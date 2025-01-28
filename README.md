@@ -1,1 +1,2 @@
-This is my personal website insired by https://emi.dev .
+An attempt on making a personal/portfolio website.
+Inspired by: https://emi.dev
